@@ -3,4 +3,5 @@ This repository contains all the paper critiques written for the Video Recogniti
 These critiques won't be official reviews of the papers, just some attempts in reading some important academic papers that could be essential for further researchs in the field.
 
 First Paper: Slow Fast Network for Video Recognition
+
 Second Paper: Is Space-Time Attention All You Need for Video Understanding?
