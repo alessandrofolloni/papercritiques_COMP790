@@ -9,3 +9,8 @@ Second Paper: Is Space-Time Attention All You Need for Video Understanding?
 Third Paper: The One Where They Reconstructed 3D Humans and Environments in TV Shows.
 <br />
 Fourth Paper: VideoMAE: Masked Autoencoders are data-efficient Learners for Self-Supervised Video Pre-Training.
+<br />
+Fifth Paper: VATT: Transformers for Multimodal Self-Supervised Learning
+from Raw Video, Audio and Text
+<br />
+Sixth Paper: VideoChat: Chat-Centric Video understanding
