@@ -14,3 +14,5 @@ Fifth Paper: VATT: Transformers for Multimodal Self-Supervised Learning
 from Raw Video, Audio and Text
 <br />
 Sixth Paper: VideoChat: Chat-Centric Video understanding
+<br />
+Seventh Paper: PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS
