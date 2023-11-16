@@ -16,3 +16,7 @@ from Raw Video, Audio and Text
 Sixth Paper: VideoChat: Chat-Centric Video understanding
 <br />
 Seventh Paper: PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS
+<br />
+Eight Paper: Ego4D: Around the World in 3,000 Hours of Egocentric Video
+<br />
+Ninth Paper: GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving
