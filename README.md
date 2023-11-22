@@ -20,3 +20,9 @@ Seventh Paper: PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUA
 Eight Paper: Ego4D: Around the World in 3,000 Hours of Egocentric Video
 <br />
 Ninth Paper: GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving
+<br />
+Tenth Paper: Human-to-Robot Imitation in the Wild
+
+<br />
+<br />
+Disclaimer: no actual critique wants to be moved against any paper, this is just a discussion space we created for the class for a better understanding of the works performed in the previous years.
